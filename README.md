@@ -4,8 +4,8 @@ I'm a  backend developer passionate about developing with free and open source t
 * 👨🏽‍💻 I'm currently working with Node.js, React, TypeScript, GraphQL and Amazon Aurora.
 * 🌱 I’m currently learning TypeScripts and BD technologies
 *🚀  I’m looking to learn about source projects.
-* 📫 I like to practice calisthenics in my spare time Reach me on [Instagram](https://instagram.com/urquijopastrana)
-😄 Pronouns: he/him.
+* 📫 I like to practice calisthenics in my spare time Reach me on [Instagram](https://instagram.com/urquijopastrana).
+
 
 Languages and Tools:
 <code><img height="20"  src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
